@@ -1,0 +1,1 @@
+javascript:void(location.href='https://redbot.org/?uri='+location.href)
